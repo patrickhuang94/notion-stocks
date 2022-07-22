@@ -3,133 +3,112 @@
   "height": "600",
   "symbolsGroups": [
     {
-      "name": "Stocks",
+      "name": "Holdings",
       "symbols": [
         {
-          "name": "NASDAQ:AMZN",
-          "displayName": "AMZN - Amazon"
+          "name": "AMEX:VTI"
         },
         {
-          "name": "TSX:BB",
-          "displayName": "BB - Blackberry"
+          "name": "NASDAQ:VXUS"
         },
         {
-          "name": "TSX:BEPC",
-          "displayName": "BEPC - Brookfield Renewable"
+          "name": "NASDAQ:TEAM"
         },
         {
-          "name": "TSX:BEP.UN",
-          "displayName": "BEP.UN - Brookfield Renewable"
+          "name": "NASDAQ:ICLN"
         },
         {
-          "name": "TSX:BIP.UN",
-          "displayName": "BIP.UN - Brookfield Infrastructure"
+          "name": "AMEX:VGT"
         },
         {
-          "name": "TSX:BMO",
-          "displayName": "BMO - Bank of Montreal"
+          "name": "NASDAQ:VXRT"
         },
         {
-          "name": "NASDAQ:CLAR",
-          "displayName": "CLAR - Clarus (BD)"
+          "name": "NYSE:CRM"
         },
         {
-          "name": "NYSE:GME",
-          "displayName": "GME - Gamestop"
+          "name": "NYSE:CHWY"
         },
         {
-          "name": "TSXV:GRN",
-          "displayName": "GRN.V - Greenlane Renewables"
+          "name": "NASDAQ:AAPL"
         },
         {
-          "name": "TSX:GRT.UN",
-          "displayName": "GRT.UN - Granite REIT"
+          "name": "NYSE:GME"
         },
         {
-          "name": "TSX:LSPD",
-          "displayName": "LSPD - Lightspeed"
-        },
-        {
-          "name": "NASDAQ:MSFT",
-          "displayName": "MSFT - Microsoft"
-        },
-        {
-          "name": "NYSE:PLTR",
-          "displayName": "PLTR - Palantir"
-        },
-        {
-          "name": "TSX:VET",
-          "displayName": "VET - Vermillion Energy"
+          "name": "NYSE:BB"
         }
       ]
     },
     {
-      "name": "ETFs",
+      "name": "Watching",
       "symbols": [
         {
-          "name": "NASDAQ:BOTZ",
-          "displayName": "BOTZ - Robots & AI"
+          "name": "NYSE:SHOP"
         },
         {
-          "name": "AMEX:IPAY",
-          "displayName": "IPAY - Mobile/FinTech"
+          "name": "NASDAQ:NVDA"
         },
         {
-          "name": "NASDAQ:QCLN",
-          "displayName": "QCLN - Clean Energy Index"
+          "name": "NASDAQ:NFLX"
         },
         {
-          "name": "NASDAQ:SKYY",
-          "displayName": "SKYY - Cloud Computing"
+          "name": "NASDAQ:MSFT"
         },
         {
-          "name": "TSX:TEC",
-          "displayName": "TEC - Technology Index"
+          "name": "NYSE:SNAP"
         },
         {
-          "name": "TSX:XIT",
-          "displayName": "XIT - CAD Tech Index"
+          "name": "NYSE:AMC"
         },
         {
-          "name": "TSX:ZRE",
-          "displayName": "ZRE - REITs"
+          "name": "NEO:VISA"
         },
         {
-          "name": "TSX:ZUT",
-          "displayName": "ZUT - Utilities"
+          "name": "NASDAQ:UAL"
         },
         {
-          "name": "TSX:ZWB",
-          "displayName": "ZWB - CC Banks"
+          "name": "NYSE:LUV"
         },
         {
-          "name": "TSX:ZWU",
-          "displayName": "ZWU - CC Utilities"
+          "name": "NYSE:JPM"
+        },
+        {
+          "name": "NASDAQ:TSLA"
         }
       ]
     },
     {
-      "name": "Watch List",
+      "name": "Indices",
       "symbols": [
         {
-          "name": "NASDAQ:CRSR",
-          "displayName": "CRSR - Corsair"
+          "name": "FRED:SP500"
         },
         {
-          "name": "NYSE:DM",
-          "displayName": "DM - Desktop Metal"
+          "name": "CURRENCYCOM:US100"
         },
         {
-          "name": "NYSE:PRLB",
-          "displayName": "PRLB - PROTO Labs"
+          "name": "DJ:DJI"
         },
         {
-          "name": "AMEX:PRNT",
-          "displayName": "PRNT - 3D Printing"
+          "name": "TVC:HSI"
         },
         {
-          "name": "NYSE:SQ",
-          "displayName": "SQ - Square"
+          "name": "TVC:NI225"
+        }
+      ]
+    },
+    {
+      "name": "Crypto",
+      "symbols": [
+        {
+          "name": "BITSTAMP:LTCUSD"
+        },
+        {
+          "name": "COINBASE:BTCUSD"
+        },
+        {
+          "name": "BITSTAMP:ETHUSD"
         }
       ]
     }
